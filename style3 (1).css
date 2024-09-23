@@ -1,0 +1,23 @@
+hr {
+width: 10
+0%;
+margin-left: 0;
+border: 2px solid black;
+}
+body {
+max-width:65%;
+margin: 0 auto;
+border: 3px solid black;
+padding: 2rem;
+margin-top: 15px;
+margin-bottom:2px;
+font-family: sans-serif;
+}
+h4 {
+font-size: 1.2rem;
+color: #309041;
+}
+h3 {
+color: #1B72C2;
+font-size: 1.1rem;
+}
